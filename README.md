@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibrahimkholil10
+- 👋 Hi, I’m Ibrahim Kholil
 - 👀 I’m interested in solving math problems.
 - 🌱 I’m currently learning Cybersecurity risk management.
 - 💞️ I’m looking to collaborate on any Cybersecurity related project
